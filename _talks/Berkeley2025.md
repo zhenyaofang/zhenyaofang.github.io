@@ -3,6 +3,6 @@ title: "Unravelling Disorder Effects in Materials using Graph Neural Networks: A
 collection: talks
 type: "Invited Talk"
 venue: "Lawrence Berkeley National Laboratory"
-date: 2025
+date: 2025-06-27
 location: "Berkeley, CA, USA"
 ---
