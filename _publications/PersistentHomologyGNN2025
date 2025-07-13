@@ -1,0 +1,12 @@
+---
+title: "Leveraging Persistent Homology Features for Accurate Defect Formation Energy Predictions via Graph Neural Networks"
+collection: publications
+category: manuscripts
+permalink: /publication/PersistentHomologyGNN2025/
+excerpt: 'We demonstrate persistent homology features encode defect information in crystals (because defects like vacancies are just like holes in manifolds), including the number, position, and type of defects. Those features can universally improve the performance of graph neural networks on defect property predictions.'
+date: 2025-02-06
+venue: 'Chemistry of Materials'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c06107'
+citation: 'Z. Fang, Q. Yan. Leveraging Persistent Homology Features for Accurate Defect Formation Energy Predictions via Graph Neural Networks. Chem. Mater. 2025, 37, 4, 1531–1540'
+---
+In machine-learning-assisted high-throughput defect studies, a defect-aware latent representation of the supercell structure is crucial for the accurate prediction of defect properties. The performance of current graph neural network (GNN) models is limited due to the fact that defect properties depend strongly on the local atomic configurations near the defect sites and due to the oversmoothing problem of GNN. Herein, we demonstrate that persistent homology features, which encode the topological information on the local chemical environment around each atomic site, can characterize the structural information on defects. Using the dataset containing a wide spectrum of O-based perovskites with all available vacancies as an example, we show that incorporating the persistent homology features, along with proper choices of graph pooling operations, significantly increases the prediction accuracy, with the MAE reduced by 55%. Those features can be easily integrated into the state-of-the-art GNN models, including the graph Transformer network and the equivariant neural network, and universally improve their performance. Besides, our model also overcomes the convergence issue with respect to the supercell size that was present in previous GNN models. Furthermore, using the datasets of defective BaTiO3 with multiple substitutions and multiple vacancies as examples, our GNN model can also predict the defect–defect interactions accurately. These results suggest that persistent homology features can effectively improve the performance of machine learning models and assist the accelerated discovery of functional defects for technological applications.
