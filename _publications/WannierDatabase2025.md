@@ -2,7 +2,7 @@
 title: "Dataset of tensorial optical and transport properties of materials from the Wannier function method"
 collection: publications
 category: manuscripts
-permalink: /publication/wannierdatabase2025/
+permalink: /publication/WannierDatabase2025/
 excerpt: 'We present the high-throughput automatic Wannierization workflow and the largest-to-date dataset of tensorial optical properties (optical conductivity, shift current) and tensorial transport properties (electrical conductivity, thermal conductivity, Seebeck coefficient, thermoelectric figure of merit zT) for 7301 materials. The results were validated by the maximum spread of the Wannier functions and the MAE of the band energy difference between DFT and Wannier methods (typically a few meV).'
 date: 2025-07-01
 venue: 'Scientific Data'
