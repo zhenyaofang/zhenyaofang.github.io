@@ -2,9 +2,9 @@
 title: "Towards accurate prediction of configurational disorder properties in materials using graph neural networks"
 collection: publications
 category: manuscripts
-permalink: /publication/ConfigurationalDisorderGNN2025/
+permalink: /publication/ConfigurationalDisorderGNN2024/
 excerpt: 'We demonstrate that graph neural networks, in combination with Monte Carlo simulations, can predict the thermodynamic properties of configurational disorder in high-entropy alloys with high accuracy and significantly low cost compared with first-principles methods.'
-date: 2025-05-07
+date: 2024-05-07
 venue: 'npj Computational Materials'
 paperurl: 'https://www.nature.com/articles/s41524-024-01283-w'
 citation: 'Z. Fang, Q. Yan. Towards accurate prediction of configurational disorder properties in materials using graph neural networks. npj Comput. Mater. 2024, 10, 91.'
