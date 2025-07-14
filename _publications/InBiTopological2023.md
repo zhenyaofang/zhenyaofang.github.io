@@ -1,0 +1,12 @@
+---
+title: "Controllable topological insulator phases in litharge-phase InBi monolayer"
+collection: publications
+category: manuscripts
+permalink: /publication/InBiTopological2023/
+excerpt: 'We demonstrate that InBi monolayer can be tuned into topological insulators by tuning the onsite potential and can be realized by applying out-of-plane electric field.'
+date: 2023-07-17
+venue: 'Physical Review Materials'
+paperurl: 'https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.074202'
+citation: 'Z. Fang, A. M. Rappe. Controllable topological insulator phases in litharge-phase InBi monolayer. Phys. Rev. Materials, 2023, 7, 074202.'
+---
+Despite recent advances of layered square-net topological material models that possess ideal semimetallic electronic structures and promising potential in material applications, the identification of experimentally accessible two-dimensional square-net materials with related topological properties has proven challenging. Due to the highly tunable physical and topological properties of III-V semiconductors, we revisit the class of III-V materials and observe that the litharge-phase InBi is a layered square-net material and can be exfoliated into the InBi monolayer. We present a comprehensive first-principles study of the energy landscape of the InBi monolayer. We identify a paraelastic phase and three ferroelastic phases and study their topological properties. Specifically, we show that the paraelastic InBi monolayer is a trivial insulator due to the orbital-ordering-induced band inversion occurring between states with the same parity. Substituting one Bi atom per cell with another V-group element (N, P, As) or applying an electric field that breaks the inversion symmetry and changes the orbital onsite energy, the paraelastic InBi monolayer can be driven into the topological insulator phase. Furthermore, one of the ferroelastic phases of pure InBi, which can be obtained by gently straining the paraelastic phase, also possesses such topological insulating properties. These results provide several experimentally accessible routes to tune the nontrivial topology in the InBi monolayer, including creating heterostructures with piezoelectric or ferroelectric substrates and applying mechanical strain, making the InBi monolayer an ideal platform to study the interplay of reduced dimensionality, square-net chemical bonding networks, and band topology.
