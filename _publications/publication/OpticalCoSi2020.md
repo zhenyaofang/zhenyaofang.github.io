@@ -1,0 +1,12 @@
+---
+title: "Optical signatures of multifold fermions in the chiral topological semimetal CoSi"
+collection: publications
+category: manuscripts
+permalink: /publication/OpticalCoSi2020/
+excerpt: 'We combine tight-binding and first-principles calculations to identify the origin of multiple signatures in the measured optical conductivity spectrum in multi-Weyl topological semimetal CoSi, and assign them to different topological nodes.'
+date: 2020-10-19
+venue: 'PNAS'
+paperurl: 'https://www.pnas.org/doi/abs/10.1073/pnas.2010752117'
+citation: 'B. Xu, Z. Fang, M.-A. Sánchez-Martínez, J. W. F. Venderbos, Z. Ni, T. Qiu, K. Manna, K. Wang, J. Paglione, C. Bernhard, C. Felser, E. Mele, A. Grushin, A. M. Rappe, L. Wu. Optical signatures of multifold fermions in the chiral topological semimetal CoSi, Proc. Natl. Acad. Sci. 2020, 117 (44) 27104-27110'
+---
+We report the optical conductivity in high-quality crystals of the chiral topological semimetal CoSi, which hosts exotic quasiparticles known as multifold fermions. We find that the optical response is separated into several distinct regions as a function of frequency, each dominated by different types of quasiparticles. The low-frequency intraband response is captured by a narrow Drude peak from a high-mobility electron pocket of double Weyl quasiparticles, and the temperature dependence of the spectral weight is consistent with its Fermi velocity. By subtracting the low-frequency sharp Drude and phonon peaks at low temperatures, we reveal two intermediate quasilinear interband contributions separated by a kink at 0.2 eV. Using Wannier tight-binding models based on first-principle calculations, we link the optical conductivity above and below 0.2 eV to interband transitions near the double Weyl fermion and a threefold fermion, respectively. We analyze and determine the chemical potential relative to the energy of the threefold fermion, revealing the importance of transitions between a linearly dispersing band and a flat band. More strikingly, below 0.1 eV our data are best explained if spin-orbit coupling is included, suggesting that at these energies, the optical response is governed by transitions between a previously unobserved fourfold spin-3/2 node and a Weyl node. Our comprehensive combined experimental and theoretical study provides a way to resolve different types of multifold fermions in CoSi at different energy. More broadly, our results provide the necessary basis to interpret the burgeoning set of optical and transport experiments in chiral topological semimetals.
